@@ -41,15 +41,15 @@
 
 | **제스처 모양** | **기능** |
 | --- | --- |
-| <img src= "[https://github.com/sjw2704/HandGesture_Contol/blob/main/HandPose/img/Red.jpg](https://github.com/sjw2704/HandGesture_Contol/blob/main/HandPose/img/Red.jpg)" width="200" /> | 펜 색상을 빨간색으로 설정함 |
-| <img src= "[https://github.com/sjw2704/HandGesture_Contol/blob/main/HandPose/img/blue.jpg](https://github.com/sjw2704/HandGesture_Contol/blob/main/HandPose/img/blue.jpg)" width="200" /> | 펜 색상을 파란색으로 설정함 |
-| <img src= "[https://github.com/sjw2704/HandGesture_Contol/blob/main/HandPose/img/green.jpg](https://github.com/sjw2704/HandGesture_Contol/blob/main/HandPose/img/green.jpg)" width="200" /> | 펜 색상을 초록색으로 설정함 |
-| <img src= "[https://github.com/sjw2704/HandGesture_Contol/blob/main/HandPose/img/drawing.jpg](https://github.com/sjw2704/HandGesture_Contol/blob/main/HandPose/img/drawing.jpg)" width="200" /> | 검지 손가락 좌표에 따라서 화면에 line을 그려줌 |
-| <img src= "[https://github.com/sjw2704/HandGesture_Contol/blob/main/HandPose/img/erase.jpg](https://github.com/sjw2704/HandGesture_Contol/blob/main/HandPose/img/erase.jpg)" width="200" /> | 라인을 모두 지워줌 |
-| <img src= "[https://github.com/sjw2704/HandGesture_Contol/blob/main/HandPose/img/good.jpg](https://github.com/sjw2704/HandGesture_Contol/blob/main/HandPose/img/good.jpg)" width="200" /> | 밝은 얼굴의 이모지 10개(랜덤한 위치와 크기)를 화면에 띄움 → 3초 동안 y축 상승을 하다가 사라짐 |
-| <img src= "[https://github.com/sjw2704/HandGesture_Contol/blob/main/HandPose/img/bad.jpg](https://github.com/sjw2704/HandGesture_Contol/blob/main/HandPose/img/bad.jpg)" width="200" /> | 울먹이는 이모지 10개(랜덤한 위치와 크기)를 화면에 띄움 → 3초 동안 y축 상승을 하다가 사라짐 |
-| <img src= "[https://github.com/sjw2704/HandGesture_Contol/blob/main/HandPose/img/myturn.jpg](https://github.com/sjw2704/HandGesture_Contol/blob/main/HandPose/img/myturn.jpg)" width="200" /> | 손을 든 남성 이모지 10개(랜덤한 위치와 크기)를 화면에 띄움 → 3초 동안 y축 상승을 하다가 사라짐 |
-| <img src= "[https://github.com/sjw2704/HandGesture_Contol/blob/main/HandPose/img/love.jpg](https://github.com/sjw2704/HandGesture_Contol/blob/main/HandPose/img/love.jpg)" width="200" /> | 하트 이모지 10개(랜덤한 위치와 크기)를 화면에 띄움 → 3초 동안 y축 상승을 하다가 사라짐 |
+| <img src= "https://github.com/sjw2704/HandGesture_Contol/blob/main/HandPose/img/Red.jpg" width="200" /> | 펜 색상을 빨간색으로 설정함 |
+| <img src= "https://github.com/sjw2704/HandGesture_Contol/blob/main/HandPose/img/blue.jpg" width="200" /> | 펜 색상을 파란색으로 설정함 |
+| <img src= "https://github.com/sjw2704/HandGesture_Contol/blob/main/HandPose/img/green.jpg" width="200" /> | 펜 색상을 초록색으로 설정함 |
+| <img src= "https://github.com/sjw2704/HandGesture_Contol/blob/main/HandPose/img/drawing.jpg" width="200" /> | 검지 손가락 좌표에 따라서 화면에 line을 그려줌 |
+| <img src= "https://github.com/sjw2704/HandGesture_Contol/blob/main/HandPose/img/erase.jpg" width="200" /> | 라인을 모두 지워줌 |
+| <img src= "https://github.com/sjw2704/HandGesture_Contol/blob/main/HandPose/img/good.jpg" width="200" /> | 밝은 얼굴의 이모지 10개(랜덤한 위치와 크기)를 화면에 띄움 → 3초 동안 y축 상승을 하다가 사라짐 |
+| <img src= "https://github.com/sjw2704/HandGesture_Contol/blob/main/HandPose/img/bad.jpg" width="200" /> | 울먹이는 이모지 10개(랜덤한 위치와 크기)를 화면에 띄움 → 3초 동안 y축 상승을 하다가 사라짐 |
+| <img src= "https://github.com/sjw2704/HandGesture_Contol/blob/main/HandPose/img/myturn.jpg" width="200" /> | 손을 든 남성 이모지 10개(랜덤한 위치와 크기)를 화면에 띄움 → 3초 동안 y축 상승을 하다가 사라짐 |
+| <img src= "https://github.com/sjw2704/HandGesture_Contol/blob/main/HandPose/img/love.jpg" width="200" /> | 하트 이모지 10개(랜덤한 위치와 크기)를 화면에 띄움 → 3초 동안 y축 상승을 하다가 사라짐 |
 
 ### 작동 순서
 
